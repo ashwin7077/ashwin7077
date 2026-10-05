@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Selected Projects">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c8a55a" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#c8a55a"/>
+      <stop offset="1" stop-color="#c8a55a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9b96a"/><stop offset="1" stop-color="#a8853f"/>
+    </linearGradient>
+  </defs>
+  <text x="600" y="30" text-anchor="middle" font-family="Merriweather, Georgia, serif" font-size="13" letter-spacing="6" fill="#b08f4a">V I</text>
+  <text x="600" y="76" text-anchor="middle" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="url(#t)">Selected Projects</text>
+  <line x1="300" y1="102" x2="580" y2="102" stroke="url(#g)"/>
+  <path d="M600 96l6 6-6 6-6-6z" fill="#c8a55a"/>
+  <path d="M586 102l3-3 3 3-3 3z M608 102l3-3 3 3-3 3z" fill="#c8a55a" opacity=".6"/>
+  <line x1="620" y1="102" x2="900" y2="102" stroke="url(#g)"/>
+</svg>

@@ -5,148 +5,213 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&size=20&duration=3200&pause=900&color=C8A55A&center=true&vCenter=true&width=640&lines=BSc+(Hons)+Cybersecurity+%26+Ethical+Hacking+%E2%80%94+First+Class;Data+Analyst+%40+Patanjali+Yogpeeth%2C+Haridwar;5x+CTF+podium+finisher+%C2%B7+CTF+organizer;Generalist+by+design.+Curious+by+default." alt="Typing intro">
-  </a>
+  <a href="https://aswinpaudel.com.np/"><b>Website</b></a>
+  &nbsp;&nbsp;◆&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/0xashwinhere/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;◆&nbsp;&nbsp;
+  <a href="https://medium.com/@7077ashwin7"><b>Medium</b></a>
+  &nbsp;&nbsp;◆&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Aswin-Paudel"><b>ResearchGate</b></a>
+  &nbsp;&nbsp;◆&nbsp;&nbsp;
+  <a href="mailto:7077ashwin7@gmail.com"><b>Email</b></a>
+</p>
+
+<br>
+
+<p align="center"><img src="./assets/sections/about.svg" alt="About" width="70%"></p>
+
+<p align="center">
+  I'm <b>Aswin Paudel</b>, a First Class Honours graduate in Cybersecurity &amp; Ethical Hacking.<br>
+  Security and ethical hacking are my core focus, but I treat learning as an open-ended pursuit:<br>
+  if something sparks my curiosity, I dig into it, whatever the field. A long-standing interest<br>
+  in philosophy shapes how I think through problems.
 </p>
 
 <p align="center">
-  <a href="https://aswinpaudel.com.np/"><img src="https://img.shields.io/badge/Website-aswinpaudel.com.np-c8a55a?style=for-the-badge&labelColor=0c0a08&logo=googlechrome&logoColor=c8a55a" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/0xashwinhere/"><img src="https://img.shields.io/badge/LinkedIn-0xashwinhere-c8a55a?style=for-the-badge&labelColor=0c0a08&logo=linkedin&logoColor=c8a55a" alt="LinkedIn"></a>
-  <a href="https://medium.com/@7077ashwin7"><img src="https://img.shields.io/badge/Medium-@7077ashwin7-c8a55a?style=for-the-badge&labelColor=0c0a08&logo=medium&logoColor=c8a55a" alt="Medium"></a>
-  <a href="https://www.researchgate.net/profile/Aswin-Paudel"><img src="https://img.shields.io/badge/ResearchGate-Aswin--Paudel-c8a55a?style=for-the-badge&labelColor=0c0a08&logo=researchgate&logoColor=c8a55a" alt="ResearchGate"></a>
-  <a href="mailto:7077ashwin7@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-c8a55a?style=for-the-badge&labelColor=0c0a08&logo=gmail&logoColor=c8a55a" alt="Email"></a>
+  I lean generalist by design. I'm drawn to leadership and enjoy directing teams toward a shared outcome.<br>
+  Before I commit to a task, I want clarity on its purpose. Once I'm in, I hold the work to a high standard<br>
+  and see it through with precision.
 </p>
 
----
-
-### `> cat about.txt`
-
-I'm **Aswin Paudel**, a First Class Honours graduate in **Cybersecurity & Ethical Hacking** from Softwarica College of IT & E-Commerce (Coventry University). Security is my core, but I treat learning as open-ended. If something sparks my curiosity, I dig into it, whatever the field. Philosophy shapes how I think through problems.
-
-I lean **generalist by design**. I like leading teams toward a shared outcome, I want to know *why* before I commit to a task, and once I'm in, I see it through with precision.
-
-```yaml
-name:      Aswin Paudel
-role:      Data Analyst @ Patanjali Yogpeeth, Haridwar   # Aug 2026 — present
-education: BSc (Hons) Cybersecurity & Ethical Hacking — First Class
-focus:     [Web Pentesting, Digital Forensics, LLM Security, Data Analysis, Linux]
-mindset:   [Adversarial Thinking, Initiative Ownership, Cross-Disciplinary Collaboration]
-motto:     "Better than a master of one."
-```
-
----
-
-### `> ls ./toolkit`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-0c0a08?style=flat-square&logo=linux&logoColor=c8a55a" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali-0c0a08?style=flat-square&logo=kalilinux&logoColor=c8a55a" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Python-0c0a08?style=flat-square&logo=python&logoColor=c8a55a" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-0c0a08?style=flat-square&logo=gnubash&logoColor=c8a55a" alt="Bash">
-  <img src="https://img.shields.io/badge/Volatility-0c0a08?style=flat-square&logo=databricks&logoColor=c8a55a" alt="Volatility">
-  <img src="https://img.shields.io/badge/Burp%20Suite-0c0a08?style=flat-square&logo=burpsuite&logoColor=c8a55a" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Wireshark-0c0a08?style=flat-square&logo=wireshark&logoColor=c8a55a" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Ghidra-0c0a08?style=flat-square&logo=ghidra&logoColor=c8a55a" alt="Ghidra">
-  <img src="https://img.shields.io/badge/HTML-0c0a08?style=flat-square&logo=html5&logoColor=c8a55a" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-0c0a08?style=flat-square&logo=css&logoColor=c8a55a" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-0c0a08?style=flat-square&logo=javascript&logoColor=c8a55a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Firebase-0c0a08?style=flat-square&logo=firebase&logoColor=c8a55a" alt="Firebase">
+<p align="center">
+  <i>“I value autonomy over rigid structure, and I bring the same energy and curiosity to whatever I take on next.”</i>
 </p>
 
----
+<br>
 
-### `> ./honours --list`
+<p align="center"><img src="./assets/sections/journey.svg" alt="Experience & Education" width="70%"></p>
 
-| Year | Placement | Event |
-| :--: | :-- | :-- |
-| 2026 | 🥈 **1st Runner Up** | HackAstra CTF |
-| 2025 | 🥈 **1st Runner Up** | OWASP Kathmandu CTF, 0x07 Meetup |
-| 2025 | 🥈 **1st Runner Up** | Pentester Nepal 12th Anniversary CTF |
-| 2025 | 🥉 **2nd Runner Up** | Softwarica Hackfest 2.0 |
-| 2024 | 🏆 **Winner** | Softwarica Hackfest |
-
-### `> ./certs --verify`
-
-| Credential | Issuer | Date | |
-| :-- | :-- | :-- | :-: |
-| **CLLMSP** · Certified LLM Security Professional | Red Team Leaders | Jun 2026 | [Verify ↗](https://courses.redteamleaders.com/exam-completion/30ef1720e1976060) |
-| **CCEP** · Certified Cybersecurity Educator Professional | Red Team Leaders | Nov 2025 | [Verify ↗](https://courses.redteamleaders.com/exam-completion/215054d2b244c7b2) |
-
----
-
-### `> ls ./projects`
-
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔎 <a href="https://github.com/ashwin7077/Digital-Forensic-Automation-Tool">Digital Forensic Automation Tool</a></h4>
-      <p>Automates forensic analysis on top of the Volatility framework.</p>
-      <ul>
-        <li>Auto-detects evidence type: image, audio or disk</li>
-        <li>MD5 &amp; SHA-256 integrity checks before and after analysis</li>
-        <li>PDF report with executive summary &amp; chain of custody</li>
-      </ul>
-      <code>Python</code> <code>Linux</code> <code>Volatility</code>
+    <td align="center" width="380" valign="top">
+      <sub>AUGUST 2026 — PRESENT</sub><br><br>
+      <b>Data Analyst</b><br>
+      <i>Patanjali Yogpeeth, Haridwar</i>
     </td>
-    <td width="50%" valign="top">
-      <h4>🚩 <a href="https://ctf.aswinpaudel.com.np/">CTF Portal — “Attack On Hash Function”</a></h4>
-      <p>A capture-the-flag platform, hand-built with vanilla web tech.</p>
-      <ul>
-        <li>Crypto, reverse engineering &amp; system exploit challenges</li>
-        <li>Flag submission with a global leaderboard</li>
-        <li>Community hub with a Discord server for players</li>
-      </ul>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    <td align="center" width="380" valign="top">
+      <sub>BACHELOR'S DEGREE · FIRST CLASS HONOURS</sub><br><br>
+      <b>BSc (Hons) Cybersecurity &amp; Ethical Hacking</b><br>
+      <i>Softwarica College of IT &amp; E-Commerce<br>in affiliation with Coventry University, London</i>
     </td>
   </tr>
 </table>
+</div>
 
-```console
-forensics@linux:~$ python3 main.py
-=== DIGITAL FORENSIC AUTOMATION TOOL ===
-[*] Detected evidence type: disk
-[*] Calculating file hash...
-[*] Running analysis modules...
-[*] Generating PDF report...
-[OK] Report saved: report/Report_evidence.dd.pdf
-```
+<br>
 
----
+<p align="center"><img src="./assets/sections/expertise.svg" alt="Expertise" width="70%"></p>
 
-### `> cat ./writing/*`
+<div align="center">
+<table>
+  <tr>
+    <th width="380"><sub>TECHNICAL</sub></th>
+    <th width="380"><sub>PERSONAL</sub></th>
+  </tr>
+  <tr>
+    <td align="center">Linux<br>Digital Forensics<br>Web Penetration Testing<br>Data Analysis<br>LLM Security</td>
+    <td align="center">Executive-Level Briefing<br>Cross-Disciplinary Collaboration<br>Adversarial Thinking<br>Initiative Ownership</td>
+  </tr>
+</table>
 
-- 📝 [**Pentester Nepal 12th Anniversary CTF Writeup**](https://aswinpaudel.com.np/blogs/pentester-nepal-12th-anniversary-ctf-writeup.html): walkthrough of the challenges where I finished 1st Runner Up · [Medium](https://medium.com/@7077ashwin7/pentester-nepal-12th-anniversary-ctf-writeup-68868278c9b3)
-- 📝 [**OWASP Kathmandu 7th Meetup CTF**](https://aswinpaudel.com.np/blogs/owasp-kathmandu-7th-meetup-ctf.html): notes and solutions from the 0x07 meetup CTF · [Medium](https://medium.com/@7077ashwin7/owasp-kathmandu-7th-meetup-ctf-47bc82300d97)
-- 📄 [**The Invisible Deficiency: Protein Quality, Distribution and Adequacy in Nepali Diets**](https://aswinpaudel.com.np/article/the-invisible-deficiency.html): research paper · [ResearchGate](https://www.researchgate.net/publication/414295309_The_Invisible_Deficiency_Protein_Quality_Distribution_and_Adequacy_in_Nepali_Diets)
+<br>
 
-### `> history | grep community`
+<img src="https://img.shields.io/badge/Linux-0c0a08?style=flat-square&logo=linux&logoColor=c8a55a" alt="Linux">
+<img src="https://img.shields.io/badge/Python-0c0a08?style=flat-square&logo=python&logoColor=c8a55a" alt="Python">
+<img src="https://img.shields.io/badge/Volatility-0c0a08?style=flat-square&logoColor=c8a55a" alt="Volatility">
+<img src="https://img.shields.io/badge/HTML-0c0a08?style=flat-square&logo=html5&logoColor=c8a55a" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-0c0a08?style=flat-square&logo=css&logoColor=c8a55a" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-0c0a08?style=flat-square&logo=javascript&logoColor=c8a55a" alt="JavaScript">
+<img src="https://img.shields.io/badge/Firebase-0c0a08?style=flat-square&logo=firebase&logoColor=c8a55a" alt="Firebase">
+</div>
 
-- **Organizer**, Pentester Nepal 10th Anniversary CTF
-- **Host & Organizer**, Softwarica CTF (2023): 50+ challenges across security domains
-- **Member**, Softwarica IT Club (2023 – 2025)
-- **Participant**, TechX (2023 & 2024)
-- **Organizer**, Haritalika Teej 2026, Indira Gandhi Stadium, New Delhi
+<br>
 
----
+<p align="center"><img src="./assets/sections/honours.svg" alt="Honours & Distinctions" width="70%"></p>
 
-### `> ./stats`
+<div align="center">
+<table>
+  <tr><td align="center" width="90"><sub>2026</sub></td><td width="180"><b>1st Runner Up</b></td><td width="420">HackAstra CTF</td></tr>
+  <tr><td align="center"><sub>2025</sub></td><td><b>1st Runner Up</b></td><td>OWASP Kathmandu CTF, 0x07 Meetup</td></tr>
+  <tr><td align="center"><sub>2025</sub></td><td><b>1st Runner Up</b></td><td>Pentester Nepal 12th Anniversary CTF</td></tr>
+  <tr><td align="center"><sub>2025</sub></td><td><b>2nd Runner Up</b></td><td>Softwarica Hackfest 2.0</td></tr>
+  <tr><td align="center"><sub>2024</sub></td><td><b>✦ Winner</b></td><td>Softwarica Hackfest</td></tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"><img src="./assets/sections/certifications.svg" alt="Certifications" width="70%"></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="380" valign="top">
+      <sub>CLLMSP</sub><br><br>
+      <b>Certified LLM Security Professional</b><br>
+      <i>Red Team Leaders · June 2026</i><br><br>
+      <a href="https://courses.redteamleaders.com/exam-completion/30ef1720e1976060">Verify Credential ↗</a>
+    </td>
+    <td align="center" width="380" valign="top">
+      <sub>CCEP</sub><br><br>
+      <b>Certified Cybersecurity Educator Professional</b><br>
+      <i>Red Team Leaders · November 2025</i><br><br>
+      <a href="https://courses.redteamleaders.com/exam-completion/215054d2b244c7b2">Verify Credential ↗</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"><img src="./assets/sections/projects.svg" alt="Selected Projects" width="70%"></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="380" valign="top">
+      <sub>DIGITAL FORENSICS</sub><br><br>
+      <b>Digital Forensic Automation Tool</b><br><br>
+      Automates digital forensic analysis, built on the Volatility memory forensics framework.<br><br>
+      ◆ Detects the evidence type automatically<br>
+      ◆ Verifies integrity with MD5 &amp; SHA-256<br>
+      ◆ PDF report with executive summary and chain of custody<br><br>
+      <sub><i>Python · Linux · Volatility</i></sub><br><br>
+      <a href="https://github.com/ashwin7077/Digital-Forensic-Automation-Tool">View on GitHub ↗</a>
+    </td>
+    <td width="380" valign="top">
+      <sub>WEB PLATFORM</sub><br><br>
+      <b>CTF Portal: “Attack On Hash Function”</b><br><br>
+      A capture-the-flag competition portal, hand-built with vanilla web technologies.<br><br>
+      ◆ Cryptography, reverse engineering &amp; exploit challenges<br>
+      ◆ Flag submission and a global leaderboard<br>
+      ◆ Community hub with a Discord server<br><br>
+      <sub><i>HTML · CSS · JavaScript</i></sub><br><br>
+      <a href="https://ctf.aswinpaudel.com.np/">Visit Live Demo ↗</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"><img src="./assets/sections/writing.svg" alt="Articles & Writing" width="70%"></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="250" valign="top">
+      <sub>RESEARCH · 2026</sub><br><br>
+      <b><a href="https://aswinpaudel.com.np/article/the-invisible-deficiency.html">The Invisible Deficiency</a></b><br>
+      <i>Protein quality, distribution and adequacy in Nepali diets.</i><br><br>
+      <a href="https://www.researchgate.net/publication/414295309_The_Invisible_Deficiency_Protein_Quality_Distribution_and_Adequacy_in_Nepali_Diets">ResearchGate ↗</a>
+    </td>
+    <td width="250" valign="top">
+      <sub>CTF WRITEUP · 2025</sub><br><br>
+      <b><a href="https://aswinpaudel.com.np/blogs/pentester-nepal-12th-anniversary-ctf-writeup.html">Pentester Nepal 12th Anniversary CTF</a></b><br>
+      <i>A walkthrough of the challenges, finished 1st Runner Up.</i><br><br>
+      <a href="https://medium.com/@7077ashwin7/pentester-nepal-12th-anniversary-ctf-writeup-68868278c9b3">Medium ↗</a>
+    </td>
+    <td width="250" valign="top">
+      <sub>CAPTURE THE FLAG · 2025</sub><br><br>
+      <b><a href="https://aswinpaudel.com.np/blogs/owasp-kathmandu-7th-meetup-ctf.html">OWASP Kathmandu 7th Meetup CTF</a></b><br>
+      <i>Notes and solutions from the 0x07 meetup.</i><br><br>
+      <a href="https://medium.com/@7077ashwin7/owasp-kathmandu-7th-meetup-ctf-47bc82300d97">Medium ↗</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"><img src="./assets/sections/community.svg" alt="Community Engagement" width="70%"></p>
+
+<div align="center">
+<table>
+  <tr><td align="center" width="120"><sub>2026</sub></td><td width="200"><b>Organizer</b></td><td width="400">Haritalika Teej, Indira Gandhi Stadium, New Delhi</td></tr>
+  <tr><td align="center"><sub>2023 – 2025</sub></td><td><b>Member</b></td><td>Softwarica IT Club</td></tr>
+  <tr><td align="center"><sub>2023 &amp; 2024</sub></td><td><b>Participant</b></td><td>TechX</td></tr>
+  <tr><td align="center"><sub>2023</sub></td><td><b>Host &amp; Organizer</b></td><td>Softwarica CTF, 50+ challenges</td></tr>
+  <tr><td align="center"><sub>—</sub></td><td><b>Organizer</b></td><td>Pentester Nepal 10th Anniversary CTF</td></tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"><img src="./assets/sections/github.svg" alt="On GitHub" width="70%"></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwin7077&show_icons=true&hide_border=false&bg_color=0c0a08&title_color=c8a55a&text_color=efe6d2&icon_color=c8a55a&border_color=9a7a3a&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwin7077&show_icons=true&bg_color=0c0a08&title_color=c8a55a&text_color=efe6d2&icon_color=c8a55a&border_color=9a7a3a&rank_icon=github" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin7077&layout=compact&bg_color=0c0a08&title_color=c8a55a&text_color=efe6d2&border_color=9a7a3a" alt="Top languages">
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwin7077&background=0c0a08&border=9a7a3a&ring=c8a55a&fire=e6cf98&currStreakNum=efe6d2&sideNums=efe6d2&currStreakLabel=c8a55a&sideLabels=c8a55a&dates=a99d87" alt="GitHub streak">
-</p>
 
----
+<br>
 
 <p align="center">
-  <i>Open to collaborations and good conversations. If something here caught your eye, <a href="mailto:7077ashwin7@gmail.com">write to me</a>.</i><br>
-  <sub>— With warm regards, Aswin Paudel</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwin7077&label=Profile%20views&color=c8a55a&style=flat-square&labelColor=0c0a08" alt="Profile views">
+  <sub>CORRESPONDENCE</sub><br><br>
+  <i>Dear reader, I'm open to collaborations and good conversations.<br>
+  If something here caught your eye, I would be glad to hear from you.</i><br><br>
+  <a href="mailto:7077ashwin7@gmail.com"><b>7077ashwin7@gmail.com</b></a><br><br>
+  <i>With warm regards,</i><br>
+  <b>Aswin Paudel</b>
 </p>
