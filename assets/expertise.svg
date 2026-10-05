@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
-  <foreignObject x="0" y="0" width="900" height="430">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width:900px;height:430px">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="362" viewBox="0 0 900 362">
+  <foreignObject x="0" y="0" width="900" height="362">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:900px;height:362px">
       <style>
 *{box-sizing:border-box;margin:0;padding:0}
 .card{width:100%;height:100%;border-radius:20px;position:relative;overflow:hidden;
@@ -34,11 +34,9 @@
       <h2 class="title">Expertise</h2>
       <div class="rule"><i></i><b></b><i></i></div>
       <div class="cols">
-        <div class="col"><p class="label">Technical</p><div class="chips"><span class="chip">Linux</span><span class="chip">Digital Forensics</span><span class="chip">Web Penetration Testing</span><span class="chip">Data Analysis</span><span class="chip">LLM Security</span><span class="chip">Capture the Flag</span></div></div>
+        <div class="col"><p class="label">Technical</p><div class="chips"><span class="chip">Linux</span><span class="chip">Digital Forensics</span><span class="chip">Web Penetration Testing</span><span class="chip">Data Analysis</span><span class="chip">Capture the Flag</span></div></div>
         <div class="col"><p class="label">Personal</p><div class="chips"><span class="chip">Executive-Level Briefing</span><span class="chip">Cross-Disciplinary Collaboration</span><span class="chip">Adversarial Thinking</span><span class="chip">Initiative Ownership</span></div></div>
       </div>
-      <p class="label" style="margin-top:26px">Working Stack</p>
-      <div class="chips center"><span class="chip small">Python</span><span class="chip small">Volatility</span><span class="chip small">Bash</span><span class="chip small">HTML</span><span class="chip small">CSS</span><span class="chip small">JavaScript</span><span class="chip small">Firebase</span></div>
     </div>
     </div>
   </foreignObject>
