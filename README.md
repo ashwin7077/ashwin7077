@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aswinpaudel.com.np/"><img src="./assets/banner.svg" alt="Aswin Paudel — Cybersecurity & Ethical Hacking" width="100%"></a>
+  <a href="https://aswinpaudel.com.np/"><img src="./assets/banner.svg" alt="Aswin Paudel — An Ordinary Man" width="100%"></a>
 </p>
 
 <p align="center">
@@ -14,8 +14,6 @@
 <p align="center"><img src="./assets/about.svg" alt="About Me" width="100%"></p>
 
 <p align="center"><img src="./assets/expertise.svg" alt="Expertise" width="100%"></p>
-
-<p align="center"><img src="./assets/honours.svg" alt="Honours & Distinctions" width="100%"></p>
 
 <p align="center"><img src="./assets/projects-heading.svg" alt="Selected Projects" width="100%"></p>
 
